@@ -1,0 +1,5 @@
+name: DonationNotifications
+version: @version@
+main: com.github.frcsty.donationnotifications.DonationsPlugin
+api-version: 1.13
+author: Frcsty
